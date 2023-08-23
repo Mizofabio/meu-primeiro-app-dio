@@ -1,4 +1,4 @@
-package com.teste.meuprimeiroappdio.ui.theme
+ package com.teste.meuprimeiroappdio.ui.theme
 
 import android.app.Activity
 import android.os.Build
